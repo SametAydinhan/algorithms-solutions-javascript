@@ -5,8 +5,8 @@ function miniMaxSum(arr) {
     for (let i = 1; i < length - 1; i++) {
       sum += sorted[i];
     }
-    let min = sum + sorted[0];
+    let mins = sum + sorted[0];
     let max = sum + sorted[length - 1];
-    console.log(min + " " + max);
+    console.log(mins + " " + max);
   
   }
