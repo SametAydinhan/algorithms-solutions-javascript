@@ -9,7 +9,7 @@ function timeConversion(s) {
     if(hour === 12 && s.indexOf("PM") !== -1){
         return(hour + timeFormat)
     }
-    // if hour is from 1 to 11pm , add 12 to the time
+    // if hour is from 1 to 11pm , add 12 to the times
     if(hour < 12 && s.indexOf("PM") !== -1){
         return(12+hour+timeFormat);
     }else {// if hour is from 1 to 11 AM
