@@ -4,7 +4,7 @@ function staircase(n) {
        for(let j = 0; j< i-1; j++){
            result += ' ';
        }
-       for(let k = i-1; k < n ; k++){
+       for(let m = i-1; m< n ; m++){
            result += '#';
        }
        console.log(result);
