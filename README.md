@@ -10,4 +10,5 @@
 | 07  |    [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)                           |       [Staircase.js](./algorithms-solitions/Staircase.js)                  |
 | 08  |    [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)                     |       [MiniMaxSum.js](./algorithms-solitions/MiniMaxSum.js)                |
 | 09  |    [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)               |       [timeConversion.js](./algorithms-solitions/timeConversion.js)        |
+| 10  |    [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)                      |       [gradingStudents.js](./algorithms-solitions/gradingStudents.js)        |
 
