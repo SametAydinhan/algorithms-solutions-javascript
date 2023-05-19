@@ -1,5 +1,5 @@
 # algorithms-solutions-javascript
-|  #  |                                                      Challenge                                                                         |                                  Solution                                              |
+|  #  |                                                      Challenge                                                                         |                                     Solution                                           |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
 | 01  |    [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)                                    |       [SolveMeFirst.js](./algorithms-solitions/SolveMeFirst.js)                        |
 | 02  |    [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)                                |       [SimpleArraySum.js](./algorithms-solitions/SimpleArraySum.js)                    |
@@ -16,4 +16,5 @@
 | 13  |    [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)                                |       [BetweenTwoSets.js](./algorithms-solitions/BetweenTwoSets.js)                    |
 | 14  |    [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)             |       [BreakingtheRecords.js](./algorithms-solitions/BreakingtheRecords.js)            |
 | 15  |    [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)                               |       [SubarrayDivision.js](./algorithms-solitions/SubarrayDivision.js)                |
+| 16  |    [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)                          |       [DivisibleSumPairs.js](./algorithms-solitions/DivisibleSumPairs.js)              |
 
