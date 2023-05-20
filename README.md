@@ -18,4 +18,5 @@
 | 15  |    [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)                               |       [SubarrayDivision.js](./algorithms-solitions/SubarrayDivision.js)                |
 | 16  |    [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)                          |       [DivisibleSumPairs.js](./algorithms-solitions/DivisibleSumPairs.js)              |
 | 17  |    [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)                                |       [CountingValleys.js](./algorithms-solitions/CountingValleys.js)                  |
+| 18  |    [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)                                  |       [MigratoryBirds.js](./algorithms-solitions/MigratoryBirds.js)                    |
 
