@@ -20,4 +20,5 @@
 | 17  |    [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)                                |       [CountingValleys.js](./algorithms-solitions/CountingValleys.js)                  |
 | 18  |    [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)                                  |       [MigratoryBirds.js](./algorithms-solitions/MigratoryBirds.js)                    |
 | 19  |    [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)                      |       [DayOfTheProgrammer.js](./algorithms-solitions/DayOfTheProgrammer.js)            |
+| 20  |    [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)                                        |       [BillDivision.js](./algorithms-solitions/BillDivision.js)                        |
 
