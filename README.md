@@ -25,4 +25,5 @@
 | 22  |    [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true)                                        |       [DrawingBook.js](./algorithms-solitions/DrawingBook.js)                          |
 | 23  |    [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true)                                |       [ElectronicsShop.js](./algorithms-solitions/ElectronicsShop.js)                  |
 | 24  |    [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                                |       [CatsandaMouse.js](./algorithms-solitions/CatsandaMouse.js)                      |
+| 25  |    [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true)                      |       [FormingaMagicSquare.js](./algorithms-solitions/FormingaMagicSquare.js)          |
 
