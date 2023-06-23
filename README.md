@@ -27,4 +27,4 @@
 | 024  |    [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                                |       [CatsandaMouse.js](./algorithms-solutions/CatsandaMouse.js)                      |
 | 025  |    [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true)                      |       [FormingaMagicSquare.js](./algorithms-solutions/FormingaMagicSquare.js)          |
 | 026  |    [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)                                  |       [PickingNumbers.js](./algorithms-solutions/PickingNumbers.js)                    |
-
+| 027  |    [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)                |       [ClimbingtheLeaderboard.js](./algorithms-solutions/ClimbingtheLeaderboard.js)    |
