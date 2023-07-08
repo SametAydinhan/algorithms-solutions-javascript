@@ -28,5 +28,6 @@
 | 025  |    [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true)                      |       [FormingaMagicSquare.js](./algorithms-solutions/FormingaMagicSquare.js)          |
 | 026  |    [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)                                  |       [PickingNumbers.js](./algorithms-solutions/PickingNumbers.js)                    |
 | 027  |    [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)                |       [ClimbingtheLeaderboard.js](./algorithms-solutions/ClimbingtheLeaderboard.js)    |
-| 028  |    [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                                  |       [The Hurdle Race.js](./algorithms-solutions/TheHurdleRace.js)                    |
+| 028  |    [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                                  |       [TheHurdleRace.js](./algorithms-solutions/TheHurdleRace.js)                      |
+| 029  |    [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)                      |       [BirthdayCakeCandles.js](./algorithms-solutions/BirthdayCakeCandles.js)          |
 
