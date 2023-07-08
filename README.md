@@ -30,4 +30,5 @@
 | 027  |    [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)                |       [ClimbingtheLeaderboard.js](./algorithms-solutions/ClimbingtheLeaderboard.js)    |
 | 028  |    [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                                  |       [TheHurdleRace.js](./algorithms-solutions/TheHurdleRace.js)                      |
 | 029  |    [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)                      |       [BirthdayCakeCandles.js](./algorithms-solutions/BirthdayCakeCandles.js)          |
+| 030  |    [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)                                        |       [UtopianTree.js](./algorithms-solutions/UtopianTree.js)                          |
 
