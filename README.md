@@ -33,5 +33,6 @@
 | 030  |    [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)                                         |       [UtopianTree.js](./algorithms-solutions/UtopianTree.js)                          |
 | 031  |    [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)        |       [AngryProfessor.js](./algorithms-solutions/AngryProfessor.js)                    |
 | 032  |    [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true)         |       [BeautifulDaysAtTheMovies.js](./algorithms-solutions/BeautifulDaysAtTheMovies.js)|
+| 033  |    [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)                             |       [ViralAdvertising.js](./algorithms-solutions/ViralAdvertising.js)                |
 
 
