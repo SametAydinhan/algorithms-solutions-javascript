@@ -35,5 +35,6 @@
 | 032  |    [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true)         |       [BeautifulDaysAtTheMovies.js](./algorithms-solutions/BeautifulDaysAtTheMovies.js)|
 | 033  |    [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)                             |       [ViralAdvertising.js](./algorithms-solutions/ViralAdvertising.js)                |
 | 034  |    [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true)                           |       [DesignerPDFViewer.js](./algorithms-solutions/DesignerPDFViewer.js)              |
+| 035  |    [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true)                              |       [SavethePrisoner.js](./algorithms-solutions/SavethePrisoner.js)                  |
 
 
