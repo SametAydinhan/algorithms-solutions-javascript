@@ -36,5 +36,6 @@
 | 033  |    [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)                             |       [ViralAdvertising.js](./algorithms-solutions/ViralAdvertising.js)                |
 | 034  |    [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true)                           |       [DesignerPDFViewer.js](./algorithms-solutions/DesignerPDFViewer.js)              |
 | 035  |    [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true)                              |       [SavethePrisoner.js](./algorithms-solutions/SavethePrisoner.js)                  |
+| 036  |    [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true)                   |       [CircularArrayRotation.js](./algorithms-solutions/CircularArrayRotation.js)      |
 
 
