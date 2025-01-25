@@ -38,5 +38,6 @@
 | 035  |    [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true)                              |       [SavethePrisoner.js](./algorithms-solutions/SavethePrisoner.js)                  |
 | 036  |    [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true)                   |       [CircularArrayRotation.js](./algorithms-solutions/CircularArrayRotation.js)      |
 | 037  |    [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)                            |       [SequenceEquation.js](./algorithms-solutions/SequenceEquation.js)                |
+| 038  |    [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?isFullScreen=true)  |       [JumpingontheClouds.js](./algorithms-solutions/JumpingontheClouds.js)            |
 
 
