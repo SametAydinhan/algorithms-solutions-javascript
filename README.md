@@ -40,5 +40,7 @@
 | 037  |    [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)                            |       [SequenceEquation.js](./algorithms-solutions/SequenceEquation.js)                |
 | 038  |    [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?isFullScreen=true)  |       [JumpingontheClouds.js](./algorithms-solutions/JumpingontheClouds.js)            |
 | 039  |    [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)                                           |       [FindDigits.js](./algorithms-solutions/FindDigits.js)                            |
+| 040  |    [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)                       |       [ExtraLongFactorials.js](./algorithms-solutions/ExtraLongFactorials.js)          |
+
 
 
