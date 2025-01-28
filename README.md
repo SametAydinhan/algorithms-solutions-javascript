@@ -44,3 +44,4 @@
 | 040 |           [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)            |      [ExtraLongFactorials.js](./algorithms-solutions/ExtraLongFactorials.js)      |
 | 041 |               [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem?isFullScreen=true)                |          [AppendandDelete.js](./algorithms-solutions/AppendandDelete.js)          |
 | 042 |            [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true)             |       [SherlockandSquares.js](./algorithms-solutions/SherlockandSquares.js)       |
+| 043 |                    [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true)                     |              [LibraryFine.js](./algorithms-solutions/LibraryFine.js)              |
