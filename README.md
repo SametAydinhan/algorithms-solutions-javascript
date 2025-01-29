@@ -1,7 +1,7 @@
 # algorithms-solutions-javascrip
 
 |  #  |                                                              Challenge                                                              |                                     Solution                                      |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------  | :-------------------------------------------------------------------------------  |
 | 001 |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)                                     |[SolveMeFirst.js](./algorithms-solutions/SolveMeFirst.js)                          |
 | 002 |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)                                 |[SimpleArraySum.js](./algorithms-solutions/SimpleArraySum.js)                      |
 | 003 |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)                         |[ComparetheTriplets.js](./algorithms-solutions/ComparetheTriplets.js)              |
@@ -46,3 +46,4 @@
 | 042 |[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true)                         |[SherlockandSquares.js](./algorithms-solutions/SherlockandSquares.js)              |
 | 043 |[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true)                                         |[LibraryFine.js](./algorithms-solutions/LibraryFine.js)                            |
 | 044 |[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true)                                     |[Cutthesticks.js](./algorithms-solutions/Cutthesticks.js)                          |
+| 045 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true)                         |[Non-DivisibleSubset.js](./algorithms-solutions/Non-DivisibleSubset.js)            |
