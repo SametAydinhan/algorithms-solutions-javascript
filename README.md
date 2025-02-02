@@ -50,3 +50,4 @@
 | 046 |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true)                                   |[RepeatedString.js](./algorithms-solutions/RepeatedString.js)                      |
 | 047 |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true)                       |[JumpingontheClouds1.js](./algorithms-solutions/JumpingontheClouds1.js)            |
 | 048 |[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true)                            |[EqualizetheArray.js](./algorithms-solutions/EqualizetheArray.js)                  |
+| 049 |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true)                                 |[Queen'sAttackII.js](./algorithms-solutions/Queen'sAttackII.js)                    |
