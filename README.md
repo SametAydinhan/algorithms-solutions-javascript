@@ -52,3 +52,4 @@
 | 048 |[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true)                            |[EqualizetheArray.js](./algorithms-solutions/EqualizetheArray.js)                  |
 | 049 |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true)                                 |[Queen'sAttackII.js](./algorithms-solutions/Queen'sAttackII.js)                    |
 | 050 |[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem?isFullScreen=true)                                       |[ACMICPCTeam.js](./algorithms-solutions/ACMICPCTeam.js)                            |
+| 051 |[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=true)                                      |[TaumandB'day.js](./algorithms-solutions/TaumandB'day.js)                          |
