@@ -55,3 +55,4 @@
 | 051 |[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=true)                                      |[TaumandB'day.js](./algorithms-solutions/TaumandB'day.js)                              |
 | 052 |[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem?isFullScreen=true)     |[OrganizingContainersofBalls.js](./algorithms-solutions/OrganizingContainersofBalls.js)|
 | 053 |[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem?isFullScreen=true)                        |[ModifiedKaprekarNumbers.js](./algorithms-solutions/ModifiedKaprekarNumbers.js)        |
+| 054 |[Encryption](https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true)                                             |[Encryption.js](./algorithms-solutions/Encryption.js)                                  |
