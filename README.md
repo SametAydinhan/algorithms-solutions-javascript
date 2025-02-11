@@ -57,3 +57,5 @@
 | 053 |[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem?isFullScreen=true)                        |[ModifiedKaprekarNumbers.js](./algorithms-solutions/ModifiedKaprekarNumbers.js)        |
 | 054 |[Encryption](https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true)                                             |[Encryption.js](./algorithms-solutions/Encryption.js)                                  |
 | 055 |[Flatland Space Stations](https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true)                                |[FlatlandSpaceStations.js](./algorithms-solutions/FlatlandSpaceStations.js)            |
+| 056 |[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true)                               |[BiggerisGreater.js](./algorithms-solutions/BiggerisGreater.js)                        |
+
