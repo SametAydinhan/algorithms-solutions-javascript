@@ -58,4 +58,6 @@
 | 054 |[Encryption](https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true)                                             |[Encryption.js](./algorithms-solutions/Encryption.js)                                  |
 | 055 |[Flatland Space Stations](https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true)                                |[FlatlandSpaceStations.js](./algorithms-solutions/FlatlandSpaceStations.js)            |
 | 056 |[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true)                               |[BiggerisGreater.js](./algorithms-solutions/BiggerisGreater.js)                        |
+| 057 |[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem?isFullScreen=true)                             |[BeautifulTriplets.js](./algorithms-solutions/BeautifulTriplets.js)                    |
+
 
