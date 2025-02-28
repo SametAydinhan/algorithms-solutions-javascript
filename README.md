@@ -64,4 +64,5 @@
 | 060 |[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true)                               |[TheTimeinWords.js](./algorithms-solutions/TheTimeinWords.js)                          |
 | 061 |[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem?isFullScreen=true)                                   |[ChocolateFeast.js](./algorithms-solutions/ChocolateFeast.js)                          |
 | 062 |[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem?isFullScreen=true)                                         |[ServiceLane.js](./algorithms-solutions/ServiceLane.js)                                |
+| 063 |[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem?isFullScreen=true)                                     |[Lisa'sWorkbook.js](./algorithms-solutions/Lisa'sWorkbook.js)                          |
 
