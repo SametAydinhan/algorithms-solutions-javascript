@@ -67,4 +67,5 @@
 | 063 |[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem?isFullScreen=true)                                     |[Lisa'sWorkbook.js](./algorithms-solutions/Lisa'sWorkbook.js)                          |
 | 064 |[Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem?isFullScreen=true)                                         |[FairRations.js](./algorithms-solutions/FairRations.js)                                |
 | 065 |[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem?isFullScreen=true)                                             |[CavityMap.js](./algorithms-solutions/CavityMap.js)                                    |
+| 066 |[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem?isFullScreen=true)                               |[ManasaandStones.js](./algorithms-solutions/ManasaandStones.js)                        |
 
