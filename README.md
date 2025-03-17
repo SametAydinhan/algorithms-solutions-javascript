@@ -69,4 +69,5 @@
 | 065 |[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem?isFullScreen=true)                                             |[CavityMap.js](./algorithms-solutions/CavityMap.js)                                    |
 | 066 |[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem?isFullScreen=true)                               |[ManasaandStones.js](./algorithms-solutions/ManasaandStones.js)                        |
 | 067 |[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem?isFullScreen=true)                                   |[TheGridSearch.js](./algorithms-solutions/TheGridSearch.js)                            |
+| 068 |[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem?isFullScreen=true)                                     |[HappyLadybugs.js](./algorithms-solutions/HappyLadybugs.js)                            |
 
