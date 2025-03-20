@@ -70,4 +70,6 @@
 | 066 |[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem?isFullScreen=true)                               |[ManasaandStones.js](./algorithms-solutions/ManasaandStones.js)                        |
 | 067 |[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem?isFullScreen=true)                                   |[TheGridSearch.js](./algorithms-solutions/TheGridSearch.js)                            |
 | 068 |[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem?isFullScreen=true)                                     |[HappyLadybugs.js](./algorithms-solutions/HappyLadybugs.js)                            |
+| 069 |[Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem?isFullScreen=true)                                      |[StrangeCounter.js](./algorithms-solutions/StrangeCounter.js)                          |
+
 
